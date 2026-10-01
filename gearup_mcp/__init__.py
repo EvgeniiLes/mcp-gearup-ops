@@ -1,0 +1,1 @@
+"""GearUp Ops MCP server."""
