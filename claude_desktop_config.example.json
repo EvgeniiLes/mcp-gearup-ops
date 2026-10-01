@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gearup-ops": {
+      "command": "python",
+      "args": ["-m", "gearup_mcp"],
+      "cwd": "/absolute/path/to/mcp-gearup-ops",
+      "env": { "GEARUP_DB": "/absolute/path/to/mcp-gearup-ops/gearup.db" }
+    }
+  }
+}
